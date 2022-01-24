@@ -19,7 +19,8 @@
 
 ### Connect with me:
 
-[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1643032436~hmac=77f07e97addb8a03e259768555126874" />][website]
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
