@@ -1,3 +1,4 @@
+<div align="center>
 ### Hi there, I'm  [Sinehan][website] 👋 
 
 <br />
@@ -48,9 +49,7 @@
 <br />
 <br />
 
-<div align = "center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishna-28&show_icons=true&locale=en&layout=compact&theme=dark" alt="harikrishna-28" /></p>
-</div>
 
 [![Sinehan GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/sinehan001)
 
@@ -68,3 +67,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+</div>
