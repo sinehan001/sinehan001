@@ -48,7 +48,7 @@
 <br />
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishna-28&show_icons=true&locale=en&layout=compact&theme=dark" alt="harikrishna-28" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinehan001&show_icons=true&locale=en&layout=compact&theme=dark" alt="sinehan001" /></p>
 
 [![Sinehan GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/sinehan001)
 
