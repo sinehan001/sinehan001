@@ -17,6 +17,8 @@
 
 <br />
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sinehan001&label=Profile%20views&color=0e75b6&style=flat" alt="sinehan001" /> </p>
+
 ### Connect with me:
 
 <!-- [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
@@ -46,7 +48,7 @@
 <br />
 <br />
 
-[![Sinehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001)](https://github.com/sinehan001)
+[![Sinehan GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001)](https://github.com/sinehan001)
 
 ---
 [website]: https://e-circle.000webhostapp.com
