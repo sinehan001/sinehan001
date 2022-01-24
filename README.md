@@ -52,6 +52,8 @@
 
 [![Sinehan GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/sinehan001)
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishna-28&theme=dark" alt="harikrishna-28" /></p>
+
 ---
 [website]: https://e-circle.000webhostapp.com
 [logo]: https://e-circle.000webhostapp.com/images/logo.png
