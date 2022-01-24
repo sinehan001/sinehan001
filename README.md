@@ -1,7 +1,7 @@
 ### Hi there, I'm  [Sinehan][website] 👋 
 
 <br />
-[<img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="https://e-circle.000webhostapp.com/images/logo.png" />][website]
+<img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="https://e-circle.000webhostapp.com/images/logo.png" />
 
 ## I'm a Student, Programmer and Web Developer!!
 
