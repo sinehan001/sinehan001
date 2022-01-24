@@ -21,10 +21,10 @@
 
 <!-- [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1643032436~hmac=77f07e97addb8a03e259768555126874" />][website]
-[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
+[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504839.png?token=exp=1643032631~hmac=c11342b94b8bd5f9c4da5557d84e2991" />][twitter]
+[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 <br />
 <br />
