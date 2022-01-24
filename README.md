@@ -48,7 +48,11 @@
 <br />
 <br />
 
-[![Sinehan GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001)](https://github.com/sinehan001)
+<div align = "center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrishna-28&show_icons=true&locale=en&layout=compact&theme=dark" alt="harikrishna-28" /></p>
+</div>
+
+[![Sinehan GitHub stats](https://github-readme-stats.vercel.app/api?username=sinehan001&show_icons=true&locale=en&layout=compact&theme=dark)](https://github.com/sinehan001)
 
 ---
 [website]: https://e-circle.000webhostapp.com
