@@ -21,7 +21,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/344/external-link-business-and-management-kiranshastry-lineal-color-kiranshastry.png" />][website]
+[<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="22px" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/344/external-link-marketing-seo-flatart-icons-flat-flatarticons.png" />][website]
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504839.png?token=exp=1643032631~hmac=c11342b94b8bd5f9c4da5557d84e2991" />][twitter]
 [<img align="left" style="padding-left: 10px; padding-right: 10px;" alt="e-circle.000webhostapp | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
