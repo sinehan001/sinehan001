@@ -1,6 +1,3 @@
-#Sinehan's Configuration
-markdown: kramdown
-
 ### Hi there, I'm  [Sinehan][website] 👋 
 
 <br />
