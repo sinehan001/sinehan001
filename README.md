@@ -61,7 +61,7 @@
 [app]: https://play.google.com/store/apps/details?id=com.my.ecirclehub
 [sapp]: https://galaxy.store/ecircle1
 [twitter]: https://twitter.com/sinehan001
-[youtube]: https://youtube.com/channel/UCDtWAZckJG5-HONoPi1oENQ{:target="_blank"rel="noopener"}
+[youtube]: https://youtube.com/channel/UCDtWAZckJG5-HONoPi1oENQ
 [instagram]: https://instagram.com/sinehan001
 [linkedin]: https://linkedin.com/in/sinehan-s-9576961b2/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
