@@ -1,0 +1,6 @@
+#Jekyll Configuration
+name: Sinehan
+description: My Coding Adventure
+url: "https://github.com/sinehan001"
+markdown: kramdown
+highlighter: rouge
