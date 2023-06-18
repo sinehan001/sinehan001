@@ -1,3 +1,5 @@
+# 💫 About Me:
+
 ### Hi there, I'm  [Sinehan][website] 👋
 
 <br />
@@ -5,7 +7,6 @@
 
 ## I'm a Student, Programmer and Web Developer!!
 
-# 💫 About Me:
 🔭 I just launched my website: E-Circle Hub!<br>🤖 Google Play Store: E-Circle Hub!<br>🤖 Samsung Galaxy Store: E-Circle Hub!<br>🌱 I’m currently learning React<br>💞️ I’m looking to collaborate on Web Design and Development<br>🥅 2022 Goals: Contribute more to Open Source projects<br>⚡ Fun fact: I love to program<br>📫 To reach me, Mail : sinehan001@gmail.com
 
 
