@@ -29,8 +29,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sinehan001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=sinehan001&icon=0&color=1)](https://visitcount.itsvg.in)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sinehan001&label=Profile%20views&color=0e75b6&style=flat" alt="sinehan001" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
