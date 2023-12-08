@@ -3,8 +3,10 @@
 ### Hi there, I'm  [Sinehan][website] 👋
 
 <br />
-<img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="https://e-circle.000webhostapp.com/images/logo.png" />
-<img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="Horizon" width="200px" src="https://e-circle.000webhostapp.com/images/Horizon.png" />
+<div style="display: flex;">
+  <img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="https://e-circle.000webhostapp.com/images/logo.png" />
+  <img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="Horizon" width="200px" src="https://e-circle.000webhostapp.com/images/Horizon.png" />4
+</div>
 
 ## I'm a Student, Programmer and Web Developer!!
 
