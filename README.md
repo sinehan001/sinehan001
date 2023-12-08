@@ -3,9 +3,8 @@
 ### Hi there, I'm  [Sinehan][website] 👋
 
 <br />
-[!LOGO](https://e-circle.000webhostapp.com/images/logo.png)
-[!LOGO](https://e-circle.000webhostapp.com/images/Horizon.png)
-<div style="display: flex;">
+
+<div style="display: flex; gap=40px;">
   <img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="https://e-circle.000webhostapp.com/images/logo.png" />
   <img style="padding-left: 10px; margin-left: 180px; padding-right: 10px;" alt="Horizon" width="200px" src="https://e-circle.000webhostapp.com/images/Horizon.png" />4
 </div>
