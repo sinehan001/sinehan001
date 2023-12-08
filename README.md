@@ -19,7 +19,7 @@
 
 # 💻 Tech Stack:
 <div style="display: flex;background-color: white; gap=40px;">
-  <img style="margin-right: 80px; background-color: white;" src="https://nimsassociates.com/~nimsasso/images/2020-t4/vendor_logos/amazon/aws-logo.png" width="200px" />
+  <img style="margin-right: 80px; background-color: white;" src="https://www.theindianwire.com/wp-content/uploads/2019/11/AWS--200x200.jpg" width="200px" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="200px" />
 </div>
 
