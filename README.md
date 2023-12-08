@@ -18,7 +18,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sinehan.s.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sinehan001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sinehan-s) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sinehan001) 
 
 # 💻 Tech Stack:
-<div style="display: flex; gap=40px;">
+<div style="display: flex;background-color: white; gap=40px;">
   <img style="margin-right: 80px; background-color: white;" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="200px" />
   <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="200px" />
 </div>
