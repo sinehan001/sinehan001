@@ -5,8 +5,8 @@
 <br />
 
 <div style="display: flex; gap=40px;">
-  <img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="[https://e-circle.000webhostapp.com/images/logo.png](https://github.com/sinehan001/E-Circle-Hub/blob/main/images/logo.png)" />
-  <img style="padding-left: 10px; margin-left: 180px; padding-right: 10px;" alt="Horizon" width="200px" src="https://e-circle.000webhostapp.com/images/Horizon.png" />
+  <img style="padding-left: 10px; margin-left: 80px; padding-right: 10px;" alt="e-circle.000webhostapp.com" width="200px" src="images/E-Circle-Hub.png" />
+  <img style="padding-left: 10px; margin-left: 180px; padding-right: 10px;" alt="Horizon" width="200px" src="images/Horizon.png" />
 </div>
 
 ## I'm a Student, Programmer and Web Developer!!
